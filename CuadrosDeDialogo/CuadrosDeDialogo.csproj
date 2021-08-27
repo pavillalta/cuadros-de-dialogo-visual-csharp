@@ -70,12 +70,6 @@
     <Compile Include="acercade.Designer.cs">
       <DependentUpon>acercade.cs</DependentUpon>
     </Compile>
-    <Compile Include="acercade_copia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="acercade_copia.Designer.cs">
-      <DependentUpon>acercade_copia.cs</DependentUpon>
-    </Compile>
     <Compile Include="ayuda.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,9 +92,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="acercade.resx">
       <DependentUpon>acercade.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="acercade_copia.resx">
-      <DependentUpon>acercade_copia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ayuda.resx">
       <DependentUpon>ayuda.cs</DependentUpon>
