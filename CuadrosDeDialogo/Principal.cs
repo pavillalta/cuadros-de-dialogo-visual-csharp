@@ -16,7 +16,7 @@ namespace CuadrosDeDialogo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Dialogos());
+            Application.Run(new menu());
         }
     }
 }

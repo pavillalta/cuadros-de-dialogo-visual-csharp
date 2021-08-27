@@ -38,10 +38,10 @@
             // 
             // baceptar
             // 
-            this.baceptar.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.baceptar.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.baceptar.Font = new System.Drawing.Font("Elephant", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.baceptar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.baceptar.Location = new System.Drawing.Point(95, 83);
+            this.baceptar.Location = new System.Drawing.Point(105, 110);
             this.baceptar.Name = "baceptar";
             this.baceptar.Size = new System.Drawing.Size(200, 80);
             this.baceptar.TabIndex = 0;
@@ -51,10 +51,10 @@
             // 
             // baceptar_cancelar
             // 
-            this.baceptar_cancelar.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.baceptar_cancelar.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.baceptar_cancelar.Font = new System.Drawing.Font("Elephant", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.baceptar_cancelar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.baceptar_cancelar.Location = new System.Drawing.Point(324, 83);
+            this.baceptar_cancelar.Location = new System.Drawing.Point(334, 110);
             this.baceptar_cancelar.Name = "baceptar_cancelar";
             this.baceptar_cancelar.Size = new System.Drawing.Size(200, 80);
             this.baceptar_cancelar.TabIndex = 1;
@@ -64,10 +64,10 @@
             // 
             // bsi_no
             // 
-            this.bsi_no.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.bsi_no.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.bsi_no.Font = new System.Drawing.Font("Elephant", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bsi_no.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.bsi_no.Location = new System.Drawing.Point(556, 83);
+            this.bsi_no.Location = new System.Drawing.Point(566, 110);
             this.bsi_no.Name = "bsi_no";
             this.bsi_no.Size = new System.Drawing.Size(200, 80);
             this.bsi_no.TabIndex = 2;
@@ -77,10 +77,10 @@
             // 
             // berror
             // 
-            this.berror.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.berror.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.berror.Font = new System.Drawing.Font("Elephant", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.berror.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.berror.Location = new System.Drawing.Point(556, 271);
+            this.berror.Location = new System.Drawing.Point(566, 218);
             this.berror.Name = "berror";
             this.berror.Size = new System.Drawing.Size(200, 80);
             this.berror.TabIndex = 5;
@@ -90,10 +90,10 @@
             // 
             // binterrogacion
             // 
-            this.binterrogacion.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.binterrogacion.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.binterrogacion.Font = new System.Drawing.Font("Elephant", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.binterrogacion.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.binterrogacion.Location = new System.Drawing.Point(324, 271);
+            this.binterrogacion.Location = new System.Drawing.Point(334, 218);
             this.binterrogacion.Name = "binterrogacion";
             this.binterrogacion.Size = new System.Drawing.Size(200, 80);
             this.binterrogacion.TabIndex = 4;
@@ -103,10 +103,10 @@
             // 
             // bexclamcion
             // 
-            this.bexclamcion.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.bexclamcion.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.bexclamcion.Font = new System.Drawing.Font("Elephant", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bexclamcion.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.bexclamcion.Location = new System.Drawing.Point(95, 271);
+            this.bexclamcion.Location = new System.Drawing.Point(105, 218);
             this.bexclamcion.Name = "bexclamcion";
             this.bexclamcion.Size = new System.Drawing.Size(200, 80);
             this.bexclamcion.TabIndex = 3;

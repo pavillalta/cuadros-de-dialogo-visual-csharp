@@ -12,7 +12,8 @@ namespace CuadrosDeDialogo
 {
     public partial class Dialogos : Form
     {
-        public Dialogos()
+
+                public Dialogos()
         {
             InitializeComponent();
         }
@@ -47,9 +48,5 @@ namespace CuadrosDeDialogo
             MessageBox.Show("Mensaje informativo", "Titulo Ventana", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
-        private void acercadeToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
