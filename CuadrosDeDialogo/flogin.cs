@@ -35,9 +35,12 @@ namespace CuadrosDeDialogo
 private void button1_Click(object sender, EventArgs e)
         {
 
+            String usuario1 = "pepe";
+            String clave1 = "pepeadmin";
+
 
             //evaluando que clave y usuario sean correctos
-            if (txtusuario.Text == "usuario1" || txtclave.Text == "usuario1")
+            if (txtusuario.Text == usuario1 || txtclave.Text == clave1)
             {
                 //llamando formulario principal llamado menu
                 menu fprincipal = new menu();

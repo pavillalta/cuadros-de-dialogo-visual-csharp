@@ -94,6 +94,12 @@
     <Compile Include="menu.Designer.cs">
       <DependentUpon>menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="NuevoFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoFormulario.Designer.cs">
+      <DependentUpon>NuevoFormulario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="acercade.resx">

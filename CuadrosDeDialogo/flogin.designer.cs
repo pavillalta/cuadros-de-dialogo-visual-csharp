@@ -44,7 +44,7 @@
             // bsalir
             // 
             this.bsalir.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bsalir.Location = new System.Drawing.Point(12, 132);
+            this.bsalir.Location = new System.Drawing.Point(505, 132);
             this.bsalir.Name = "bsalir";
             this.bsalir.Size = new System.Drawing.Size(87, 42);
             this.bsalir.TabIndex = 1;
